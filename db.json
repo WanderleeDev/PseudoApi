@@ -1,37 +1,37 @@
 {
   "icons": [
     {
-      "img": "./assets/images/iconsSvg/ring.svg",
+      "img": "https://www.dropbox.com/s/ju77omifc448s1x/ring.svg?dl=0",
       "title": "rings",
       "altText": "go to rings section" 
     },
     {
-      "img": "./assets/images/iconsSvg/magicBook .svg",
+      "img": "https://www.dropbox.com/s/vktptlroh4a29rs/magicBook%20.svg?dl=0",
       "title": "magic books",
       "altText": "go to magical books section" 
     },
     {
-      "img": "./assets/images/iconsSvg/mana.svg",
+      "img": "https://www.dropbox.com/s/gsbbmdw5idnaf6v/mana.svg?dl=0",
       "title": "potions",
       "altText": "go to section potions" 
     },
     {
-      "img": "./assets/images/iconsSvg/mini-staff.svg",
+      "img": "https://www.dropbox.com/s/uwdjxfagbr7psy2/mini-staff.svg?dl=0",
       "title": "wands",
       "altText": "go to magic wands section" 
     },
     {
-      "img": "./assets/images/iconsSvg/orb.svg",
+      "img": "https://www.dropbox.com/s/zb91t1yud0fp5vc/orb.svg?dl=0",
       "title": "magic orbs",
       "altText": "go to magic orbs section" 
     },
     {
-      "img": "./assets/images/iconsSvg/potion.svg",
+      "img": "https://www.dropbox.com/s/hy6k1kaano1y3wq/potion.svg?dl=0",
       "title": "containers",
       "altText": "go to section of containers for basic potions" 
     },
     {
-      "img": "./assets/images/iconsSvg/clock.svg",
+      "img": "https://www.dropbox.com/s/m6j07yusbz6zl28/clock.svg?dl=0",
       "title": "clocks",
       "altText": "go to clocks section" 
     }
