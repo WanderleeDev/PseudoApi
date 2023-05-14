@@ -476,7 +476,31 @@
           "type": ["beginner"],
           "image": "assets/images/productos/reloj/reloj-afteri.png",
           "dataExtra": ""
-        }
+        },
+        {
+          "name": "Afteri Timepiece",
+          "description": "Un reloj de mesa de estilo vintage con una función de cronómetro incorporada. Aunque en ocasiones puede retrasarse, es perfecto para aquellos que están comenzando a interesarse por los relojes.",
+          "price": "200",
+          "type": ["beginner"],
+          "image": "assets/images/productos/reloj/afteri-timepiece.webp",
+          "dataExtra": ""
+        },
+        {
+          "name": "Reloj Retro Afteri",
+          "description": "Un reloj de mesa con un atractivo diseño vintage y una práctica función de cronómetro. Aunque a veces puede tener retrasos, es especialmente adecuado para principiantes en el mundo de los relojes.",
+          "price": "200",
+          "type": ["beginner"],
+          "image": "assets/images/productos/reloj/reloj-retroafteri.webp",
+          "dataExtra": ""
+        },
+        {
+          "name": "Reloj Retrotime",
+          "description": "Un elegante reloj de mesa con un encantador diseño vintage y una función de cronómetro incorporada. Aunque ocasionalmente puede experimentar pequeños retrasos, este reloj es ideal para principiantes que buscan un estilo clásico y funcionalidad.",
+          "price": "200",
+          "type": ["beginner"],
+          "image": "assets/images/productos/reloj/reloj-retrotime.webp",
+          "dataExtra": ""
+        }              
       ],
       "containers":[
         {    
